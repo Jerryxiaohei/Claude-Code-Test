@@ -1,0 +1,20 @@
+{
+  "mcpServers": {
+    "synscale-filesystem": {
+      "command": "node",
+      "args": [
+        "C:\\Users\\abc\\Claude-Code-Test\\tools\\mcp-servers\\filesystem.js",
+        "C:\\Users\\abc\\Claude-Code-Test"
+      ]
+    },
+    "synscale-dev": {
+      "command": "node",
+      "args": [
+        "C:\\Users\\abc\\Claude-Code-Test\\tools\\mcp-servers\\synscale-dev.js"
+      ],
+      "env": {
+        "PROJECT_ROOT": "C:\\Users\\abc\\Claude-Code-Test"
+      }
+    }
+  }
+}

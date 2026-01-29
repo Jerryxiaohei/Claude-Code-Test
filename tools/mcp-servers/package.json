@@ -1,0 +1,13 @@
+{
+  "name": "synscale-mcp-servers",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Custom MCP servers for SynScale development",
+  "scripts": {
+    "filesystem": "node filesystem.js",
+    "synscale-dev": "node synscale-dev.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.25.0"
+  }
+}

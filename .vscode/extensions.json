@@ -1,0 +1,51 @@
+{
+  "recommendations": [
+    // 基础开发
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "editorconfig.editorconfig",
+
+    // TypeScript/JavaScript
+    "ms-vscode.vscode-typescript-next",
+
+    // React开发
+    "dsznajder.es7-react-js-snippets",
+    "formulahendry.auto-rename-tag",
+
+    // Python开发
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-python.black-formatter",
+
+    // Go开发
+    "golang.go",
+
+    // Git
+    "eamodio.gitlens",
+    "mhutchie.git-graph",
+
+    // Docker
+    "ms-azuretools.vscode-docker",
+
+    // TailwindCSS
+    "bradlc.vscode-tailwindcss",
+
+    // 实用工具
+    "streetsidesoftware.code-spell-checker",
+    "wayou.vscode-todo-highlight",
+    "aaron-bond.better-comments",
+    "usernamehw.errorlens",
+    "christian-kohler.path-intellisense",
+    "gruntfuggly.todo-tree",
+
+    // Markdown
+    "yzhang.markdown-all-in-one",
+    "bierner.markdown-mermaid",
+
+    // API开发
+    "humao.rest-client",
+
+    // 主题和图标
+    "pkief.material-icon-theme"
+  ]
+}
