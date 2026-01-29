@@ -87,6 +87,10 @@ RWA（真实世界资产）到IWA（智能世界资产）的通用结算单位�
 3. 🤖 **[MCP服务器配置](docs/MCP-SETUP.md)** - Claude Code集成指南
 4. 🚀 **[项目初始化](docs/PROJECT-INIT.md)** - 从零搭建项目结构
 
+### 无代码开发
+- 🎯 **[Agent Skills使用指南](SKILLS-GUIDE.md)** - 用自然语言完成开发
+- 🤖 **[Skill Seekers指南](docs/SKILL-SEEKERS-GUIDE.md)** - 将任何开源项目转为Skills
+
 ### 产品文档
 - [产品需求文档 (PRD)](SynScale_%20Smart%20Asset%20Integration%20and%20Distribution%20Platform%20PRD.docx)
 - [平台规划书](SynScale%20Platform_%20Smart%20Asset%20and%20Rights%20Planning.docx)
