@@ -84,8 +84,9 @@ RWA（真实世界资产）到IWA（智能世界资产）的通用结算单位�
 ### 新手入门
 1. 📖 **[技术栈规划](docs/TECH-STACK.md)** - 完整的技术架构说明
 2. 🔧 **[开发工具清单](docs/DEVELOPMENT-TOOLS.md)** - 必装软件和VS Code插件
-3. 🤖 **[MCP服务器配置](docs/MCP-SETUP.md)** - Claude Code集成指南
-4. 🚀 **[项目初始化](docs/PROJECT-INIT.md)** - 从零搭建项目结构
+3. 🐳 **[Docker & Go安装指南](docs/INSTALL-DOCKER-GO.md)** - 容器环境和Go语言配置
+4. 🤖 **[MCP服务器配置](docs/MCP-SETUP.md)** - Claude Code集成指南
+5. 🚀 **[项目初始化](docs/PROJECT-INIT.md)** - 从零搭建项目结构
 
 ### 无代码开发
 - 🎯 **[Agent Skills使用指南](SKILLS-GUIDE.md)** - 用自然语言完成开发
